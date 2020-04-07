@@ -32,6 +32,6 @@ results = {'new': 'Категория успешно добавлена',
             'not_data': 'Нет данных по запросу',
             'error': 'неизвестная ошибка'}
 
-test = {'type': 'message_new', 'object': {'message': {'date': 1582317985, 'from_id': 232041197, 'id': 827, 'out': 0, 'peer_id': 232041197, 'text': 'статистика месяц 100', 'conversation_message_id': 550, 'fwd_messages': [], 'important': False, 'random_id': 0, 'attachments': [], 'is_hidden': False}, 'client_info': {'button_actions': ['text', 'vkpay', 'open_app', 'location', 'open_link'], 'keyboard': True, 'inline_keyboard': True, 'lang_id': 0}}, 'group_id': 191362648, 'event_id': 'f85570a54e25f4e68e7205a94ff6a269e1754752', 'secret': 'xA3S0syjp9hxjAuc'}
+test = {'type': 'message_new', 'object': {'message': {'date': 1582317985, 'from_id': 1, 'id': 827, 'out': 0, 'peer_id': 1, 'text': 'статистика месяц 100', 'conversation_message_id': 550, 'fwd_messages': [], 'important': False, 'random_id': 0, 'attachments': [], 'is_hidden': False}, 'client_info': {'button_actions': ['text', 'vkpay', 'open_app', 'location', 'open_link'], 'keyboard': True, 'inline_keyboard': True, 'lang_id': 0}}, 'group_id': 1, 'event_id': 'f85570a54e25f4e68e7205a94ff6a269e1754752', 'secret': 'x1'}
 
 
